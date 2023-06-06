@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<div id="jokes-container"></div>
 <html>
 <head>
   <title>Jokes Page</title>
