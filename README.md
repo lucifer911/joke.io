@@ -1,13 +1,9 @@
-
-<!DOCTYPE html>
 <html>
 <head>
-  <title>GitHub Page - Display Raw JSON</title>
+  <title>Jokes Page</title>
 </head>
 <body>
-  <div id="jokes-container">
-  </div>
-
+  <div id="jokes-container"></div>
 </body>
 </html>
 
